@@ -6,11 +6,11 @@ We build technical, systems-driven addons for Minecraft Bedrock Edition — the 
 
 ---
 
-### Current Projects
+### Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **CarrierCore Telecom** | Multi-carrier mobile network simulation — towers, data centers, dual SIM, messaging, outages, microwave backhaul | Active |
+| **[CarrierCore](https://github.com/blocklogic-studios/carriercore)** | Multi-carrier cell network sim — towers, SIMs, messaging, data centers, outages | v2.2 |
 
 ---
 
@@ -18,7 +18,7 @@ We build technical, systems-driven addons for Minecraft Bedrock Edition — the 
 
 - Complex Script API systems
 - Functional infrastructure & networking
-- High-quality 3D models + clean UI
+- Clean 3D models + UI
 - Addons that feel like they belong in the world
 
 ### Philosophy
@@ -28,4 +28,4 @@ We build technical, systems-driven addons for Minecraft Bedrock Edition — the 
 ---
 
 **Studio** · [github.com/blocklogic-studios](https://github.com/blocklogic-studios)  
-**Brand Kit** · [branding](https://github.com/blocklogic-studios/branding)
+**Brand kit** · [branding](https://github.com/blocklogic-studios/branding)
